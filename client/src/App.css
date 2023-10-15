@@ -1,9 +1,19 @@
 .center-x {
   margin: auto;
   width: 50%;
-  
+
   padding: 10px;
 }
 .y-25 {
   margin-top: 5%;
+}
+.passwords {
+  background-color: #27272a;
+  width: 50%;
+  margin-left: 8rem;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+.text-default {
+  color: #52525b;
 }
